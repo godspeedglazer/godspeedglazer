@@ -1,8 +1,6 @@
 godspeedglazer
 
-I do not center <div>s sadly
-
-Systems developer working on data structures, low-level audits, native applications, and protocols.
+dev w/ a background in cybersecurity comps working on data structures, low-level audits, native applications, and protocols.
 * I find that good code is found in reading the code, writing it by hand (shocking) many times, and formal provers, not generic gated scripts*
 
 Usually found on macOS. Swift. Lovely GUIs. 
