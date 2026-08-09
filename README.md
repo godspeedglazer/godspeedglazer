@@ -2,7 +2,7 @@ godspeedglazer
 
 dev w/ a background in cybersecurity comps working on data structures, low-level audits, native applications, and protocols.
 * I find that good code is found in reading the code, writing it by hand (shocking) many times, and formal provers, not generic gated scripts*
-* ai's a great tool but write the important stuff by hand*
+* ai's a great tool but write the important stuff by hand. For light stuff, using AI is pretty much necessary.*
 
 Usually found on macOS. Swift. Lovely GUIs. 
 Rust for the serious protocols and granular approaches.
