@@ -16,4 +16,4 @@ Native, Mac-centric applications (different from the protocols)
 Protocols, parsers, libraries, and developer tools
 New low-level languages and ideas- Rust, Go, Zig, Hylo very modern-lang friendly
 
-# i just found out this feature existed, don't judge
+# big thing. i usually develop locally and upload to github later. things I maintain are public. (things that are MINOR improvements to things that won't be maintained are archived)
