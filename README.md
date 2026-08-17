@@ -8,7 +8,7 @@ Usually found on macOS. Swift. Lovely GUIs.
 Rust for the serious protocols and granular approaches.
 Trying to stop locally working on code and pushing once done- trying to use github more nowadays
 
-What I work on
+What I work on:
 Data structures with explicit invariants and predictable behavior
 Low-level audits involving ownership, memory, concurrency, FFI, and unsafe boundaries
 Memory-safe systems programming, primarily in Rust
